@@ -22,3 +22,11 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### the use of store
+$store.state.loadingVisible
+this.$store.dispatch('hidden')
+
+### the use of router
+<router-view></router-view>
